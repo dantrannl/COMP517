@@ -2,7 +2,7 @@
 Contains all the lab assignments about OOP I have done for my course this year
 
 1. cache.py
-Program Description:
+
 This Python program simulates a simple memory management system using a cache mechanism. It processes user input to manage requests and determines whether each request is a "Hit" (already in cache) or a "Miss" (not in cache). The program uses an LRU (Least Recently Used) policy to evict old pages when the cache reaches its limit.
 
 Skills:
@@ -12,7 +12,7 @@ User Input Handling: Reads and processes input interactively, allowing the progr
 Simulation of Algorithms: Implements an LRU-like caching strategy for memory management.
 
 2. passport.py
-Program Description:
+
 This Python program models a Passport system with detailed functionality for tracking passport information, validating expiration dates, recording travel, and summarizing passport details. The program demonstrates object-oriented programming (OOP) concepts and uses Python's datetime module for date handling.
 
 Skills:
